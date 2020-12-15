@@ -1,0 +1,482 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.7)  12 NOV 2020 13:45
+entering extended mode
+**"c:/Users/Derian/Desktop/BASE DE DATOS 2/UNIDAD II/UnitTestLatex/Lab01.tex"
+("c:/Users/Derian/Desktop/BASE DE DATOS 2/UNIDAD II/UnitTestLatex/Lab01.tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-06-18> ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Program Files\MiKTeX\tex/latex/base\size12.clo"
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) ("C:\Program Files\MiKTeX\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+) ("C:\Program Files\MiKTeX\tex/generic/babel\babel.sty"
+Package: babel 2020/06/10 3.45 The Babel package
+ ("C:\Program Files\MiKTeX\tex/generic/babel\babel.def"
+File: babel.def 2020/06/10 3.45 Babel common definitions
+\babel@savecnt=\count175
+\U@D=\dimen135
+\l@babelnohyphens=\language79
+ ("C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count176
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count177
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+) ("C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ ("C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ ("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count178
+\Gm@cntv=\count179
+\c@Gm@tempcnt=\count180
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
+\Gm@dimlist=\toks19
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count181
+\float@exts=\toks20
+\float@box=\box45
+\@float@everytoks=\toks21
+\@floatcapt=\box46
+) ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen146
+)) ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+) ("C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count182
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count183
+\leftroot@=\count184
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count185
+\DOTSCASE@=\count186
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count187
+\c@MaxMatrixCols=\count188
+\dotsspace@=\muskip16
+\c@parentequation=\count189
+\dspbrk@lvl=\count190
+\tag@help=\toks23
+\row@=\count191
+\column@=\count192
+\maxfields@=\count193
+\andhelp@=\toks24
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks25
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) ("C:\Program Files\MiKTeX\tex/latex/oberdiek\stackrel.sty"
+Package: stackrel 2016/05/16 v1.3 Adding subscript option to stackrel (HO)
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)) ("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\Derian\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count194
+\multirow@dima=\skip53
+\bigstrutjot=\dimen155
+) ("C:\Program Files\MiKTeX\tex/latex/tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks27
+) ("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box49
+) ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\UnitTestLatex\build\Lab01.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `Lab01.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ ("C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen156
+\scratchbox=\box50
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen157
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks29
+) ("C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<img/upt.jpg, id=1, 580.41844pt x 722.7pt>
+File: img/upt.jpg Graphic file (type jpg)
+<use img/upt.jpg>
+Package pdftex.def Info: img/upt.jpg  used on input line 42.
+(pdftex.def)             Requested size: 142.26132pt x 142.26576pt.
+[1
+
+{C:/Users/Derian/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./img/upt.jpg>] ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\UnitTestLatex\build\Lab01.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `Lab01.toc'.
+
+ [1]
+<img/1.png, id=12, 944.7797pt x 498.36188pt>
+File: img/1.png Graphic file (type png)
+<use img/1.png>
+Package pdftex.def Info: img/1.png  used on input line 103.
+(pdftex.def)             Requested size: 512.16287pt x 284.53308pt.
+
+Overfull \hbox (11.67888pt too wide) in paragraph at lines 103--104
+ [] 
+ []
+
+[1 <./img/1.png>]
+<img/2.png, id=18, 922.19531pt x 444.15938pt>
+File: img/2.png Graphic file (type png)
+<use img/2.png>
+Package pdftex.def Info: img/2.png  used on input line 111.
+(pdftex.def)             Requested size: 512.1481pt x 284.52533pt.
+
+Overfull \hbox (11.66411pt too wide) in paragraph at lines 111--112
+ [] 
+ []
+
+<img/3.png, id=19, 957.5775pt x 409.53pt>
+File: img/3.png Graphic file (type png)
+<use img/3.png>
+Package pdftex.def Info: img/3.png  used on input line 117.
+(pdftex.def)             Requested size: 512.1455pt x 284.5444pt.
+
+Overfull \hbox (11.6615pt too wide) in paragraph at lines 117--118
+ [] 
+ []
+
+[2 <./img/2.png> <./img/3.png>]
+<img/4.png, id=25, 661.72218pt x 332.74312pt>
+File: img/4.png Graphic file (type png)
+<use img/4.png>
+Package pdftex.def Info: img/4.png  used on input line 123.
+(pdftex.def)             Requested size: 512.17308pt x 284.544pt.
+
+Overfull \hbox (11.68909pt too wide) in paragraph at lines 123--124
+ [] 
+ []
+
+<img/d.png, id=26, 950.80219pt x 492.33937pt>
+File: img/d.png Graphic file (type png)
+<use img/d.png>
+Package pdftex.def Info: img/d.png  used on input line 128.
+(pdftex.def)             Requested size: 512.16333pt x 284.53532pt.
+
+Overfull \hbox (11.67934pt too wide) in paragraph at lines 128--129
+ [] 
+ []
+
+[3 <./img/4.png> <./img/d.png>]
+<img/e.png, id=32, 933.4875pt x 478.78876pt>
+File: img/e.png Graphic file (type png)
+<use img/e.png>
+Package pdftex.def Info: img/e.png  used on input line 133.
+(pdftex.def)             Requested size: 512.16626pt x 284.52852pt.
+
+Overfull \hbox (11.68227pt too wide) in paragraph at lines 133--134
+ [] 
+ []
+
+<img/f.png, id=33, 916.92563pt x 456.95718pt>
+File: img/f.png Graphic file (type png)
+<use img/f.png>
+Package pdftex.def Info: img/f.png  used on input line 139.
+(pdftex.def)             Requested size: 512.17368pt x 284.53769pt.
+
+Overfull \hbox (11.68968pt too wide) in paragraph at lines 139--140
+ [] 
+ []
+
+<img/f.2.png, id=34, 897.3525pt x 497.60907pt>
+File: img/f.2.png Graphic file (type png)
+<use img/f.2.png>
+Package pdftex.def Info: img/f.2.png  used on input line 142.
+(pdftex.def)             Requested size: 512.16716pt x 284.52847pt.
+
+Overfull \hbox (11.68317pt too wide) in paragraph at lines 142--143
+ [] 
+ []
+
+[4 <./img/e.png> <./img/f.png>] [5 <./img/f.2.png>]
+<img/2a.png, id=45, 951.555pt x 406.51875pt>
+File: img/2a.png Graphic file (type png)
+<use img/2a.png>
+Package pdftex.def Info: img/2a.png  used on input line 150.
+(pdftex.def)             Requested size: 512.17682pt x 199.1649pt.
+
+Overfull \hbox (11.69283pt too wide) in paragraph at lines 150--151
+ [] 
+ []
+
+<img/2b.png, id=46, 880.03781pt x 429.85594pt>
+File: img/2b.png Graphic file (type png)
+<use img/2b.png>
+Package pdftex.def Info: img/2b.png  used on input line 160.
+(pdftex.def)             Requested size: 512.16797pt x 227.6258pt.
+
+Overfull \hbox (11.68398pt too wide) in paragraph at lines 160--161
+ [] 
+ []
+
+[6 <./img/2a.png> <./img/2b.png>]
+<img/2c.png, id=52, 767.11594pt x 482.55281pt>
+File: img/2c.png Graphic file (type png)
+<use img/2c.png>
+Package pdftex.def Info: img/2c.png  used on input line 171.
+(pdftex.def)             Requested size: 512.1741pt x 199.16592pt.
+
+Overfull \hbox (11.69011pt too wide) in paragraph at lines 171--172
+ [] 
+ []
+
+[7 <./img/2c.png>]
+<img/3a.png, id=57, 715.92468pt x 383.93437pt>
+File: img/3a.png Graphic file (type png)
+<use img/3a.png>
+Package pdftex.def Info: img/3a.png  used on input line 184.
+(pdftex.def)             Requested size: 512.17722pt x 284.54636pt.
+
+Overfull \hbox (11.69322pt too wide) in paragraph at lines 184--185
+ [] 
+ []
+
+[8 <./img/3a.png>]
+<img/3b.png, id=62, 699.36281pt x 320.69812pt>
+File: img/3b.png Graphic file (type png)
+<use img/3b.png>
+Package pdftex.def Info: img/3b.png  used on input line 195.
+(pdftex.def)             Requested size: 512.18468pt x 199.17331pt.
+
+Overfull \hbox (11.70068pt too wide) in paragraph at lines 195--196
+ [] 
+ []
+
+<img/3C.png, id=63, 683.55376pt x 400.49625pt>
+File: img/3C.png Graphic file (type png)
+<use img/3C.png>
+Package pdftex.def Info: img/3C.png  used on input line 204.
+(pdftex.def)             Requested size: 512.18428pt x 284.54376pt.
+
+Overfull \hbox (11.70029pt too wide) in paragraph at lines 204--205
+ [] 
+ []
+
+[9 <./img/3b.png> <./img/3C.png>]
+<img/4A.png, id=69, 803.25093pt x 453.94594pt>
+File: img/4A.png Graphic file (type png)
+<use img/4A.png>
+Package pdftex.def Info: img/4A.png  used on input line 215.
+(pdftex.def)             Requested size: 512.17906pt x 284.52592pt.
+
+Overfull \hbox (11.69507pt too wide) in paragraph at lines 215--216
+ [] 
+ []
+
+[10 <./img/4A.png>]
+<img/ELIMINAR.png, id=74, 954.56625pt x 491.58656pt>
+File: img/ELIMINAR.png Graphic file (type png)
+<use img/ELIMINAR.png>
+Package pdftex.def Info: img/ELIMINAR.png  used on input line 229.
+(pdftex.def)             Requested size: 512.13718pt x 227.62526pt.
+
+Overfull \hbox (11.65318pt too wide) in paragraph at lines 229--230
+ [] 
+ []
+
+<img/ELIMINAR2.png, id=75, 396.7322pt x 231.86626pt>
+File: img/ELIMINAR2.png Graphic file (type png)
+<use img/ELIMINAR2.png>
+Package pdftex.def Info: img/ELIMINAR2.png  used on input line 233.
+(pdftex.def)             Requested size: 512.20435pt x 227.62715pt.
+
+Overfull \hbox (11.72035pt too wide) in paragraph at lines 233--234
+ [] 
+ []
+
+<img/eliminar3.png, id=76, 426.84468pt x 243.15843pt>
+File: img/eliminar3.png Graphic file (type png)
+<use img/eliminar3.png>
+Package pdftex.def Info: img/eliminar3.png  used on input line 236.
+(pdftex.def)             Requested size: 512.18501pt x 284.5276pt.
+
+Overfull \hbox (11.70102pt too wide) in paragraph at lines 236--237
+ [] 
+ []
+
+[11 <./img/ELIMINAR.png> <./img/ELIMINAR2.png>]
+<img/eliminar4.png, id=83, 806.26219pt x 173.89969pt>
+File: img/eliminar4.png Graphic file (type png)
+<use img/eliminar4.png>
+Package pdftex.def Info: img/eliminar4.png  used on input line 239.
+(pdftex.def)             Requested size: 512.15535pt x 85.35751pt.
+
+Overfull \hbox (11.67136pt too wide) in paragraph at lines 239--240
+ [] 
+ []
+
+[12 <./img/eliminar3.png> <./img/eliminar4.png>] ("c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\UnitTestLatex\build\Lab01.aux"
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 3882 strings out of 480790
+ 54775 string characters out of 2907052
+ 315361 words of memory out of 3000000
+ 19831 multiletter control sequences out of 15000+200000
+ 534187 words of font info for 30 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,5n,35p,356b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Derian\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1728.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "c:/Users\Derian\Desktop\BASE DE DATOS 2\UNIDAD II\UnitTestLatex\build\Lab01.pdf" (14 pages, 853442 bytes).
+PDF statistics:
+ 101 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+

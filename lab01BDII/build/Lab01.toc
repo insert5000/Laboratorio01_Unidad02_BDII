@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Paso 1: creación de una tabla NoSQL }{2}%
+\contentsline {section}{\numberline {2}Paso 2: agregar datos a la tabla NoSQL }{6}%
+\contentsline {section}{\numberline {3}Paso 3: consulta de la tabla NoSQL }{8}%
+\contentsline {section}{\numberline {4}Paso 4: eliminación de un elemento existente }{10}%
+\contentsline {section}{\numberline {5}Paso 5: eliminación de una tabla NoSQL }{11}%
